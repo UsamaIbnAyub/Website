@@ -1,0 +1,9 @@
+body{
+    background-repeat: no-repeat;
+    align-items: center;
+    background-size: cover;
+}
+h1 {
+    color: rgb(50, 205, 84);
+    outline-color: black;
+}
