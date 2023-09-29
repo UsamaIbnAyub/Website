@@ -3,7 +3,27 @@ body{
     align-items: center;
     background-size: cover;
 }
-h1 {
-    color: rgb(50, 205, 84);
-    outline-color: black;
+
+.image-container{
+    margin: auto;
+    width: 225px;
+    height: 225px;
 }
+.image-container img{
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.header h1{
+    color: brown;
+}
+
+.header p{
+    color: black;
+}
+
